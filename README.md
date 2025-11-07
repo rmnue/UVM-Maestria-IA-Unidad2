@@ -2,7 +2,7 @@
 
 ## Resumen
 
-| Metric | Value |
+| Metrica | Valor |
 |:--|--:|
 | **n** | 80 |
 | **Mínimo** | 53 |
