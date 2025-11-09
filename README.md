@@ -1,46 +1,38 @@
-# UVM-Maestria-IA-Unidad2
+# Resultados Estadísticos
 
-## Resumen
-
-| Metrica | Valor |
-|:--|--:|
-| **n** | 80 |
-| **Mínimo** | 53 |
-| **Máximo** | 97 |
-| **Rango** | 44 |
-| **Clases (k)** | 9 |
-| **Ancho de clase (h)** | 4.888889 |
+**n:** 80  
+**Mínimo:** 53  
+**Máximo:** 97  
+**Rango:** 44  
+**Clases (k):** 8  
+**Ancho de clase (h):** 5.5  
 
 ---
 
-## Tabla de frecuencias agrupadas
+## 📊 Tabla de frecuencias agrupadas
 
-| Limite Inferior | Limite Superior | Frecuencia Absoluta | Frecuencia Acumulada | FR (%) | FR Acumulada (%) | mi | mi·fi |
-|:--:|:--:|--:|--:|--:|--:|--:|--:|
-| 53.000 | 57.889 | 2 | 2 | 2.50 | 2.50 | 55.44 | 110.88 |
-| 57.889 | 62.778 | 10 | 12 | 12.50 | 15.00 | 60.33 | 603.30 |
-| 62.778 | 67.667 | 8 | 20 | 10.00 | 25.00 | 65.22 | 521.76 |
-| 67.667 | 72.556 | 9 | 29 | 11.25 | 36.25 | 70.11 | 630.99 |
-| 72.556 | 77.444 | 20 | 49 | 25.00 | 61.25 | 75.00 | 1500.00 |
-| 77.444 | 82.333 | 12 | 61 | 15.00 | 76.25 | 79.89 | 958.68 |
-| 82.333 | 87.222 | 7 | 68 | 8.75 | 85.00 | 84.78 | 593.46 |
-| 87.222 | 92.111 | 5 | 73 | 6.25 | 91.25 | 89.67 | 448.35 |
-| 92.111 | 97.000 | 7 | 80 | 8.75 | 100.00 | 94.56 | 661.92 |
-| 97.000 | 101.889 | 0 | 80 | 0.00 | 100.00 | 99.44 | 0.00 |
+| Limite Inferior | Limite Superior | Frecuencia Absoluta | Frecuencia Acumulada | FR | FR Acumulada | mi | mi*fi |
+|------------------|------------------|----------------------|-----------------------|----|---------------|------|--------|
+| 52.999 | 58.5 | 2 | 2 | 2.50 | 2.50 | 55.75 | 111.50 |
+| 58.500 | 64.0 | 12 | 14 | 15.00 | 17.50 | 61.25 | 735.00 |
+| 64.000 | 69.5 | 10 | 24 | 12.50 | 30.00 | 66.75 | 667.50 |
+| 69.500 | 75.0 | 19 | 43 | 23.75 | 53.75 | 72.25 | 1372.75 |
+| 75.000 | 80.5 | 15 | 58 | 18.75 | 72.50 | 77.75 | 1166.25 |
+| 80.500 | 86.0 | 9 | 67 | 11.25 | 83.75 | 83.25 | 749.25 |
+| 86.000 | 91.5 | 6 | 73 | 7.50 | 91.25 | 88.75 | 532.50 |
+| 91.500 | 97.0 | 7 | 80 | 8.75 | 100.00 | 94.25 | 659.75 |
 
 ---
 
-## Medidas estadísticas
+## 📈 Resultados adicionales
 
-| Medida | Valor |
-|:--|--:|
-| **Media agrupada** | 75.37 |
-| **Mediana agrupada** | 75.24 |
-| **Moda agrupada** | 75.39 |
-| **Varianza agrupada** | 108.83 |
-| **Desviación estándar agrupada** | 10.43 |
-| **Q1** | 67.67 |
-| **Q3** | 81.93 |
-| **Rango intercuartílico (IQR)** | 14.26 |
-| **Media geométrica agrupada** | 74.65 |
-
+- **Media agrupada:** 74.93  
+- **Mediana agrupada:** 74.13  
+- **Moda agrupada:** 73.31  
+- **Media:** 74.93  
+- **Varianza agrupada:** 104.91  
+- **Desviación estándar agrupada:** 10.24  
+- **Q1:** 67.3  
+- **Q3:** 81.72  
+- **Rango intercuartílico (IQR):** 14.42  
+- **Media geométrica agrupada:** 74.24  
